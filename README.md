@@ -1,16 +1,31 @@
-# Pedro Gusmão / read.me
- 👋 Olá! Eu sou o Pedro Gusmão
+# Pedro Gusmão / readme.md
+# 👋 Olá, eu sou o Pedro Gusmão!
 
-💻 Estudante de Ciência da Computação (2º período) apaixonado por tecnologia e desenvolvimento de software.
+🎓 Estudante de Ciência da Computação (2º período) apaixonado por tecnologia, lógica de programação e desenvolvimento web.
 
-📌 Atualmente estou focado em aprender e praticar:
-- HTML, CSS e JavaScript para desenvolvimento web
-- Python e PHP para lógica de programação e backend
-- Linguagem C para fundamentos da computação
+## 🚀 Sobre mim
 
-🚀 Estou sempre buscando novos desafios, aprendendo novas tecnologias e colocando a mão na massa em projetos práticos.
+- 💻 Atualmente estudando: **HTML, CSS, JavaScript, Python, PHP e C**
+- 🎯 Objetivo: me tornar um desenvolvedor full stack
+- 🔍 Sempre em busca de novos conhecimentos e desafios práticos
+- 🤝 Aberto a colaborações, projetos e networking!
 
-🎯 Objetivo: me tornar um desenvolvedor completo e contribuir com soluções que impactem pessoas de verdade.
+## 🛠️ Tecnologias que estou aprendendo
 
-📬 Conecte-se comigo:
-[LinkedIn](https://www.linkedin.com/in/pedro-gusmão-600883347/) | [E-mail](mailto:peuleite15@email.com)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-gusmão-600883347/)
+📧 Email: peuleite15@email.com  
+🌍 João Pessoa - PB, Brasil
+
+---
+
+> 💡 *"Programar é transformar ideias em realidade. Cada linha de código é um passo em direção ao futuro que quero construir."*
+
