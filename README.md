@@ -5,8 +5,8 @@
 
 ## 🚀 Sobre mim
 
-- 💻 Atualmente estudando: **HTML, CSS, JavaScript, Python, PHP e C**
-- 🎯 Objetivo: me tornar um desenvolvedor full stack
+- 💻 Atualmente estudando e tenho dominio: **HTML, CSS, JavaScript, Python e PHP
+- 🎯 Objetivo: me tornar um desenvolvedor 
 - 🔍 Sempre em busca de novos conhecimentos e desafios práticos
 - 🤝 Aberto a colaborações, projetos e networking!
 
