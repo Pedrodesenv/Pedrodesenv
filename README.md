@@ -1,12 +1,12 @@
 
  👋 Olá, eu sou o Pedro Gusmão!
 
-🎓 Estudante de Ciência da Computação (2º período) apaixonado por tecnologia, lógica de programação e desenvolvimento web.
+🎓 Estudante de Ciência da Computação (4º período) apaixonado por tecnologia, lógica de programação e desenvolvimento web.
 
  🚀 Sobre mim
 
-- 💻 Atualmente estudando e tenho dominio: **HTML, CSS, JavaScript, Python e PHP
-- 🎯 Objetivo: me tornar um desenvolvedor 
+- 💻 Atualmente estudando e tenho dominio: **HTML, CSS, JavaScript, Python , PHP, SQL. N8N
+- 🎯 Objetivo: me tornar um desenvolvedor de automação
 - 🔍 Sempre em busca de novos conhecimentos e desafios práticos
 - 🤝 Aberto a colaborações, projetos e networking!
 
